@@ -59,6 +59,10 @@ h3{
     margin-top: 10px;
     padding-top:10px;
 }
+.mountain{
+    margin:auto;
+    max-width:100%;
+}
 .bottom-cloud{
     position: absolute;
 }
